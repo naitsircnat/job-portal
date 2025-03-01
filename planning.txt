@@ -8,6 +8,6 @@ CLASSES
 -- part-time (shifts) 
 -- contract (contract length)
 
-- applicant: first name, last name, min. expected salary, education (array), work experience (array);
+- applicant: first name, last name, min. expected salary, education (array), work experience (array), earliest start date;
 
 - application: job, applicant, application date
