@@ -1,0 +1,13 @@
+CLASSES
+
+- company: name, description, sector, size, website locations (array), jobs
+
+- job: company, position, job description, requirements, salary, on-site/part-time/remote, listing post date, listing expiry date
+-- full-time
+-- permanent  
+-- part-time (shifts) 
+-- contract (contract length)
+
+- applicant: first name, last name, min. expected salary, education (array), work experience (array);
+
+- application: job, applicant, application date
