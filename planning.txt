@@ -2,7 +2,7 @@ CLASSES
 
 - company: name, description, sector, size, website locations (array), jobs
 
-- job: company, position, job description, requirements, salary, on-site/part-time/remote, listing post date, listing expiry date
+- job: company, position, job description, salary
 -- full-time
 -- permanent  
 -- part-time (shifts) 
@@ -11,3 +11,6 @@ CLASSES
 - applicant: first name, last name, min. expected salary, education (array), work experience (array), earliest start date;
 
 - application: job, applicant, application date
+
+ADD CRUD
+TRY USING PACKAGE
